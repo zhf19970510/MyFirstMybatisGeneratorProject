@@ -1,0 +1,2 @@
+# MyFirstMybatisGeneratorProject
+这是使用generatorConfig.xml配置文件构建mybatis项目框架的逆向工程
